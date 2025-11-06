@@ -28,3 +28,10 @@ public class HelloWorld {
     }
 }
 
+\\devoleper 2 code is added
+
+    public class Main {
+   public static void main(String[] args) {
+       System.out.println("Hello World");
+   }
+}
